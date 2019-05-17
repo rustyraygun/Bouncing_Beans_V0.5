@@ -1,0 +1,55 @@
+
+.hill_line {
+    fill: #9fff80;
+  
+   
+}
+
+.lisa_stickman {
+    fill: #bf80ff;
+    stroke: #bf80ff;
+   stroke-width: 1;
+  
+}
+
+.lisa_stickman_face {
+    fill: #99ebff;
+    
+    
+}
+
+.rock {
+    fill: #666666;
+ 
+   
+}
+
+.tree {
+    fill: #9fff80;
+    stroke: #9fff80;
+    stroke-width: 1;
+ 
+}
+
+.bunnyBody {
+    fill: #ffb3ff;
+}
+
+.bunnyHand {
+    fill: #ffb3ff;
+}
+
+.st1 {
+    fill: #ffffff;
+}
+
+.canBody1 {
+    fill: #ffd11a;
+}
+
+.canBody2 {
+    fill: #9fff80;
+}
+.canTop {
+    fill: #666666;
+}
