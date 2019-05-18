@@ -1,6 +1,6 @@
 # Bouncing_Beans_V0.5
 Bouncing_Beans Interactive Reading Comprehension Quiz.
-<a href="http://bit.ly/BouncingBeans_demo1">Live Demo</a>
+<a href="http://bit.ly/Bouncing_Beans_V1_demo">Live Demo</a>
 
 Bouncing Beans V0.5
 Interactive Reading Comprehension Quiz.
