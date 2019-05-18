@@ -4,7 +4,7 @@ Bouncing_Beans Interactive Reading Comprehension Quiz.
 
 Bouncing Beans V0.5
 Interactive Reading Comprehension Quiz.
-Code & Concept by Lenard Blair <a href="bit.ly/lblair_dev">Live Demo</a>  
+Code & Concept by <a href="bit.ly/lblair_dev">L.Blair</a>  
 Bouncing Beans Version 0.5 is a free web app template for instructors to create, share and manage interactive quiz content with students.
 _______
 Version 0.5
