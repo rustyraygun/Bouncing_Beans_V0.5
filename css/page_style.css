@@ -84,7 +84,7 @@ body {
 }
 
 .courseIcon {
-    width 155px;
+    width: 155px;
     height: 155px;
     padding-left: 4px;
     padding-right: 4px;
@@ -100,7 +100,7 @@ body {
 }
 
 .courseIcon:hover {
-    width 150px;
+    width: 150px;
     height: 150px;
     padding-left: 4px;
     padding-right: 4px;
@@ -138,9 +138,7 @@ body {
 }
 
 .boxes {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
   height: 100%;
     
 }
